@@ -20,11 +20,7 @@
   body{
     font-family: 'Open Sans', sans-serif;
     background-image: url('../img/fotografia.jpg');
-    background-color: rgba(10, 10, 10, 0.315);
-    background-blend-mode: darken;
-    background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
     background-attachment: fixed;
   }
   
@@ -38,8 +34,7 @@
   
   header{
     height: 80vh;
-    background-image: url('../img/fotografia.jpg');
-    background-color: rgba(207, 207, 207, 0.671);
+    background-color: rgba(2, 2, 2, 0.671);
     background-blend-mode: darken;
     background-position: center;
     background-repeat: no-repeat;
@@ -159,7 +154,7 @@
     flex-shrink: 0;
     border-radius: 10px;
     overflow: hidden;
-    background-color: #42494e81;
+    background-color: #00000059;
   }
   
   .event-detail{
